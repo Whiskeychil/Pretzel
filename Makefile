@@ -19,3 +19,4 @@ clean:
 -rm calcul *.o *~
 
 # End Makefile
+Артем лох
